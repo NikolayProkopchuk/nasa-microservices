@@ -1,0 +1,13 @@
+server:
+  port: 8082
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+nasa:
+  url: https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos
+  apiKey: DEMO_KEY
