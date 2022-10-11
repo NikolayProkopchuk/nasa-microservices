@@ -1,0 +1,13 @@
+/.idea/
+/config-service/.mvn/
+/config-service/mvnw
+/config-service/mvnw.cmd
+/discovery-service/.mvn/
+/discovery-service/mvnw.cmd
+/discovery-service/mvnw
+/nasa-proxy/.mvn/
+/nasa-proxy/mvnw
+/nasa-proxy/mvnw.cmd
+/pictures-service/.mvn/
+/pictures-service/mvnw
+/pictures-service/mvnw.cmd
