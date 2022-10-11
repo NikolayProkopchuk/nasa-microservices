@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: nasa-proxy
+  cloud:
+    config:
+      uri: http://localhost:8081
